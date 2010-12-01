@@ -10,6 +10,7 @@
 		]
 	},
 	"key": "scm",
+	"plugin": "Version Control",
 	"prerequisites": {
 	},
 	"requestSingletons": {
