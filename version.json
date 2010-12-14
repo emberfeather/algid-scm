@@ -1,6 +1,8 @@
 {
-	"releaseNotes": "http://github.com/emberfeather/algid-scm/wiki/Release-Notes",
 	"archive": "http://github.com/emberfeather/algid-scm/tarball/0.1.0",
+	"key": "scm",
+	"releaseNotes": "http://github.com/emberfeather/algid-scm/wiki/Release-Notes",
+	"title": "SCM",
 	"URL": "http://github.com/emberfeather/algid-scm",
 	"version": "0.1.0"
 }
