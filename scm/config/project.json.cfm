@@ -5,10 +5,12 @@
 	},
 	"i18n": {
 		"locales": [
+			"en_PI",
 			"en_US"
 		]
 	},
 	"key": "scm",
+	"plugin": "Version Control",
 	"prerequisites": {
 	},
 	"requestSingletons": {
