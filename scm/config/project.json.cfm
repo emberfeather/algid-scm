@@ -12,6 +12,7 @@
 	"key": "scm",
 	"plugin": "Version Control",
 	"prerequisites": {
+		"algid": "0.1.3"
 	},
 	"requestSingletons": {
 	},
