@@ -2,6 +2,7 @@
 	"applicationSingletons": {
 	},
 	"applicationTransients": {
+		"gitForScm": "plugins.scm.inc.resource.storage.git"
 	},
 	"i18n": {
 		"locales": [
