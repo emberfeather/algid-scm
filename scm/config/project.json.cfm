@@ -1,8 +1,8 @@
 {
 	"applicationSingletons": {
+		"git": "plugins.scm.inc.resource.scm.git"
 	},
 	"applicationTransients": {
-		"gitForScm": "plugins.scm.inc.resource.storage.git"
 	},
 	"i18n": {
 		"locales": [
