@@ -51,13 +51,7 @@ component {
 	}
 	
 	private string function __git( required string command ) {
-		try{
-			execute name="#variables.executable#" timeout="#variables.timeout#" arguments="#arguments.command#" variable="local.result";
-		} catch(any e) {
-			writeDump(arguments.command);
-			writeDump(e);
-			abort;
-		}
+		execute name="#variables.executable#" timeout="#variables.timeout#" arguments="#arguments.command#" variable="local.result";
 		
 		return local.result;
 	}
